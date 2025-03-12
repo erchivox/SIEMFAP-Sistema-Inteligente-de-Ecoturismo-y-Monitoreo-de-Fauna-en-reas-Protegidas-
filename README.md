@@ -12,17 +12,16 @@ Este plan se centra en un problema grave que pone en riesgo tanto la Bio-diversi
 
 Solución
 
-Este proyecto no solo revitaliza el turismo ecológico, sino que también proporciona una herramienta valiosa para la conservación y monitoreo de especies en peligro en Venezuela. Al combinar la tecnología de IA con una interfaz interactiva y sistemas de monitoreo, se generan beneficios económicos y ambientales, ayudando a un sector debilitado por la situacion actual del pais y que fue agraviado por la pandemia, dejandolos sin ingresos y trabajadores, en consecuencia muchas personas quedaron desempleadas por lo que promoveremos
+Este proyecto no solo revitaliza el turismo ecológico, sino que también proporciona una herramienta valiosa para la conservación y monitoreo de especies en peligro en Venezuela. Al combinar la tecnología de IA con una interfaz interactiva, se generan beneficios económicos y ambientales, ayudando a un sector debilitado por la situacion actual del pais y que fue agraviado por la pandemia, dejandolos sin ingresos y trabajadores, en consecuencia muchas personas quedaron desempleadas por lo que promoveremos
 un turismo sostenible y respetuoso con la biodiversidad.
 
-Su funcionamiento se divide en dos enfoques principales:
+Funcionamiento:
 
- El monitoreo y seguimientos de la fauna silvestre adentro de zonas de preservacion natural para darle a los turistas informacion en su celular enfocada a la fauna que les rodea y cuales son los ultimos lugares en los que se percibieron ejemplares alrededor de ellos.
-
- JUNTO a un sistema de monitoreo en las areas limitrofes de los parques naturales que proporcione una alerta a los guardias forestales sobre el desplazamiento natural o no de especies pertenecientes a las reservas natural.
+ El monitoreo y seguimientos de la fauna silvestre atravez de la clasificacion y registros de los usuarios adentro de zonas de preservacion natural para darle a los trabajadores o turistas informacion en su celular enfocada a la fauna que les rodea y cuales son los ultimos lugares en los que se percibieron ejemplares alrededor de ellos.
 
 **Tecnologias utilizadas**
-TensorFlow/Keras
+TensorFlow/Keras, Streamlit
+
 
 modelo de aprendizaje profundo basado en VGG16 para clasificación de imágenes.
 
