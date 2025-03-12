@@ -1,4 +1,4 @@
-# SIEFAP-Sistema-Inteligente-de-Ecoturismo-y-Monitoreo-de-Fauna-en-reas-Protegidas-
+# SIEFAP-Sistema-Inteligente-de-Ecoturismo-de-Fauna-en-areas-Protegidas-
 
 nombre del equipo: Byte Warrios
 
