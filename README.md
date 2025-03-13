@@ -23,7 +23,16 @@ Funcionamiento:
 
   1. Habre el libro de jupyter "proyecto" en colab.
   2. Descarga el modelo que estara en un enlace a mi drive "clasificador_sierra_nevada_v1.h5". Sube el modelo a tu drive.
-  3. Descarga
+  3. Descarga el archivo app25_SN.py y subelo a tu drive.
+  4. En el libro de "proyecto" ejecuta desde la parte que esta debajo de la matriz de confusion del modelo, donde tendras que instalar en tu colab lo necesario para ejecutar el archivo.
+![image](https://github.com/user-attachments/assets/0914c66d-dcdb-4440-9c14-af0ba854967a)
+  5. ejecuta las demas celdas de codigo para que tengas lo necesario para poder habrir el servidor y ejecutar la pagina.
+  6. El codigo final se mantendra ejecutando y cuando lo cierres de cerrara la pagina.
+![image](https://github.com/user-attachments/assets/00c1e132-6e3b-42de-b25e-9084bcaa3d5e)
+  7. Ingresa al link que te aparece en el codigo penultimo para ingresar a la pagina.
+![image](https://github.com/user-attachments/assets/5c3b899c-c00c-4b51-96c9-fc268c75b888)
+
+ 
 
 **Tecnologias utilizadas**
 TensorFlow/Keras, Streamlit
