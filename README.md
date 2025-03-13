@@ -32,8 +32,45 @@ Funcionamiento:
   7. Ingresa al link que te aparece en el codigo penultimo para ingresar a la pagina.
 ![image](https://github.com/user-attachments/assets/5c3b899c-c00c-4b51-96c9-fc268c75b888)
 
- 
 
+  MODELO:
+
+Nuestro modelo entrenado con una base de datos, elegida cuidadosamente con caracteristicas especificas de animales en peligro de extincion, enfoncandonos en la fauna venezolana especificamente en el parque nacional Sierre Nevada por el momento(de encontrarse imagenes de otros animales se podria realizar una futura actualizacion). 
+ Entrenado con: aproximadamente 200 imagenes por categoria.
+ ![image](https://github.com/user-attachments/assets/687fb79d-643b-4c5b-92c3-fb7215fd2019)
+ 
+ Lista de categorias:
+    'Chiguire',                # 0
+    'Coati Andino',            # 1
+    'Condor',                  # 2
+    'Conejo del paramo',       # 3
+    'Jaguar',                  # 4
+    'Jicotea',                 # 5
+    'La curraca',              # 6
+    'La lapa',                 # 7
+    'Leopardo andino',         # 8
+    'Mono araña',             # 9
+    'Mono nocturno',           # 10
+    'Oso andino',              # 11
+    'Oso hormiguero gigante',  # 12
+    'Pato de torrente',        # 13
+    'Paují de yelmo',         # 14
+    'Pava andina',             # 15
+    'Puma',                    # 16
+    'Tonina',                  # 17
+    'Tortuga carey',           # 18
+    'Venado andino',           # 19
+
+    
+ RESULTADOS:
+ Obtuvimos los siguientes resultados con la aplicacion del modelo:
+![image](https://github.com/user-attachments/assets/bbc50160-ecd4-4ea8-a5da-7d654a675983)
+
+medidas de presicion:
+![image](https://github.com/user-attachments/assets/116143de-383e-4d98-a959-0827c309a3f9)
+
+  
+ 
 **Tecnologias utilizadas**
 TensorFlow/Keras, Streamlit
 
