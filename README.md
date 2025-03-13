@@ -19,6 +19,12 @@ Funcionamiento:
 
  El monitoreo y seguimientos de la fauna silvestre atravez de la clasificacion y registros de los usuarios adentro de zonas de preservacion natural para darle a los trabajadores o turistas informacion en su celular enfocada a la fauna que les rodea y cuales son los ultimos lugares en los que se percibieron ejemplares alrededor de ellos.
 
+ Para ejercutar el proyecto:
+
+  1. Habre el libro de jupyter "proyecto" en colab.
+  2. Descarga el modelo que estara en un enlace a mi drive "clasificador_sierra_nevada_v1.h5". Sube el modelo a tu drive.
+  3. Descarga
+
 **Tecnologias utilizadas**
 TensorFlow/Keras, Streamlit
 
